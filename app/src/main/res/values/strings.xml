@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EticketKotlin</string>
+    <!--    Button -->
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="memulai">Memulai</string>
+
+    <!--    Text-->
+    <string name="now_playing">Now Playing</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_deskripsi">Tidak khawatir ketinggalan\nupdate film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_deskripsi">Gunakan e-wallet untuk\ntransaksi tiket nonton</string>
+    <string name="now_playing_deskripsi">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="daftar_akun_baru">Daftar Akun</string>
+    <string name="masuk_akun">Masuk</string>
+    <string name="fotoprofil">Photo</string>
+    <string name="selamat_datang">Selamat Datang,\nArdi Handoyo</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
+</resources>
